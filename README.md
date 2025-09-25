@@ -2,9 +2,9 @@ Open to opportunities
 
 Some work:
 
-https://github.com/marin-community/levanter/pull/974
-
 https://github.com/llvm/torch-mlir/pull/4228
+
+https://github.com/marin-community/levanter/pull/974
 
 https://github.com/pytorch/pytorch/pull/163616
 
