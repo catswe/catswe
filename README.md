@@ -8,6 +8,6 @@ https://github.com/marin-community/levanter/pull/974
 
 https://github.com/pytorch/pytorch/pull/163616
 
-https://github.com/AlphaGPU/leetgpu-challenges/pull/90
+https://github.com/alphagpu/leetgpu-challenges/pull/90
 
 https://github.com/catswe/KANditioned
