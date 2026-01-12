@@ -1,6 +1,3 @@
-Open to opportunities
-
-
 <!--
 https://github.com/llvm/torch-mlir/pull/4228
 https://github.com/marin-community/levanter/pull/974
