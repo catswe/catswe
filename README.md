@@ -18,9 +18,9 @@ https://github.com/stanford-crfm/levanter/pull/974 Initial implementation of pow
 
 https://github.com/pytorch/pytorch/pull/163616 Update doc for torch.index_select, which can accept IntTensor as a parameter
 
-https://github.com/mintisan/awesome-kan/pull/139 Add LinearKAN
+https://github.com/mintisan/awesome-kan/pull/139 Add LinearKAN repo
 
-https://github.com/AlphaGPU/leetgpu-challenges/pull/90 Script to generate starter code
+https://github.com/AlphaGPU/leetgpu-challenges/pull/90 Script to generate starter code for GPU challenges
 
 https://github.com/TheOdinProject/javascript-exercises/pull/370 Update fibonacci-solution.js
 
