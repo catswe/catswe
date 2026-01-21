@@ -2,6 +2,8 @@ I like to document my merged open-sourced PRs, many of which are rather random.
 
 It reminds me of the good work I have done and keeps me motivated :D
 
+Merged:
+
 https://github.com/vllm-project/tpu-inference/pull/1388 Support FP8 quantization
 
 https://github.com/vllm-project/tpu-inference/pull/1454 Remove init_cached_hf_modules after upstream removal
@@ -15,6 +17,10 @@ https://github.com/pytorch/pytorch/pull/163616 Update doc for torch.index_select
 https://github.com/mintisan/awesome-kan/pull/139 Add LinearKAN
 
 https://github.com/AlphaGPU/leetgpu-challenges/pull/90 Script to generate starter code
+
+In-progress:
+
+
 
 <!--
 https://github.com/llvm/torch-mlir/pull/4228
