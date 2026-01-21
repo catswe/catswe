@@ -18,9 +18,15 @@ https://github.com/mintisan/awesome-kan/pull/139 Add LinearKAN
 
 https://github.com/AlphaGPU/leetgpu-challenges/pull/90 Script to generate starter code
 
+https://github.com/TheOdinProject/javascript-exercises/pull/370 Update fibonacci-solution.js
+
 https://github.com/TheOdinProject/javascript-exercises/pull/368 Update sumAll-solution.js swap algorithm to standard method
 
 https://github.com/TheOdinProject/javascript-exercises/pull/369 Reformat test parameters for consistency
+
+https://github.com/PolicyEngine/policyengine-app/pull/1283 Render p in markdown as <p> instead of <div> for blogs
+
+https://github.com/PolicyEngine/policyengine-app/pull/1269 Rename title in PolicyBreakdown component
 
 https://github.com/fullstack-hy2020/fullstack-hy2020.github.io/pull/2981 Update part3b.md (add note on fly.io deployment error)
 
