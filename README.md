@@ -14,9 +14,9 @@ https://github.com/vllm-project/tpu-inference/pull/1388 Support FP8 quantization
 
 https://github.com/vllm-project/tpu-inference/pull/1454 Remove init_cached_hf_modules after upstream removal
 
-https://github.com/llvm/torch-mlir/pull/4228 [OnnxToTorch] Casting float to integer should round to nearest for pow with int result type
-
 https://github.com/stanford-crfm/levanter/pull/974 Initial implementation of power scheduler
+
+https://github.com/llvm/torch-mlir/pull/4228 [OnnxToTorch] Casting float to integer should round to nearest for pow with int result type
 
 https://github.com/pytorch/pytorch/pull/163616 Update doc for torch.index_select, which can accept IntTensor as a parameter
 
