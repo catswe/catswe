@@ -1,4 +1,6 @@
-I like to keep track of my open-sourced PRs. Many of which are rather random. It reminds me of the good work I have done and keeps me motivated :D
+I like to keep track of my open-sourced PRs. Many of which are rather random.
+
+It reminds me of the good work I have done and keeps me motivated :D
 
 https://github.com/vllm-project/tpu-inference/pull/1388 Support FP8 quantization
 
