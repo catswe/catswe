@@ -39,7 +39,8 @@ https://github.com/fullstack-hy2020/fullstack-hy2020.github.io/pull/2980 Update 
 https://github.com/fullstack-hy2020/fullstack-hy2020.github.io/pull/2979 Update part3d.md (fix incorrect links)
 
 # Guide:
-- [A Guide on Overcoming Nerd snipe, Info junk, and FOMO](https://docs.google.com/document/d/1XJcfWStffLsu96w6jwWeFmY1sPXLS3boArlbipsk3JE/edit?tab=t.0)
+
+[A Guide on Overcoming Nerd Snipe, Info Junk, and FOMO](https://docs.google.com/document/d/1XJcfWStffLsu96w6jwWeFmY1sPXLS3boArlbipsk3JE/edit?tab=t.0)
 
 <!--
 https://github.com/llvm/torch-mlir/pull/4228
