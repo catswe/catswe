@@ -20,7 +20,7 @@ https://github.com/llvm/torch-mlir/pull/4228 [OnnxToTorch] Casting float to inte
 
 https://github.com/pytorch/pytorch/pull/163616 Update doc for torch.index_select, which can accept IntTensor as a parameter
 
-https://github.com/mintisan/awesome-kan/pull/139 Add LinearKAN repo
+https://github.com/mintisan/awesome-kan/pull/139 Add LinearKAN
 
 https://github.com/AlphaGPU/leetgpu-challenges/pull/90 Script to generate starter code for GPU challenges
 
