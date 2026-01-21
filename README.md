@@ -1,4 +1,4 @@
-I like to document my merged open-sourced PRs, many of which are rather random. It reminds me of the good work I have done :D
+I like to document my open-sourced PRs, many of which are rather random. It reminds me of the good work I have done :D
 
 # Merged:
 
