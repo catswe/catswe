@@ -1,5 +1,11 @@
 I like to document my open-sourced PRs, many of which are rather random. It reminds me of the good work I have done :D
 
+# In-progress:
+
+https://github.com/vllm-project/tpu-inference/pull/1440 Handle unaligned FP8 block quantization edge case
+
+https://github.com/vllm-project/tpu-inference/pull/1472 Support MoE sigmoid scoring
+
 # Merged:
 
 https://github.com/vllm-project/tpu-inference/pull/1388 Support FP8 quantization
@@ -31,12 +37,6 @@ https://github.com/fullstack-hy2020/fullstack-hy2020.github.io/pull/2981 Update 
 https://github.com/fullstack-hy2020/fullstack-hy2020.github.io/pull/2980 Update part9f.md (fix incorrect link)
 
 https://github.com/fullstack-hy2020/fullstack-hy2020.github.io/pull/2979 Update part3d.md (fix incorrect links)
-
-# In-progress:
-
-https://github.com/vllm-project/tpu-inference/pull/1440 Handle unaligned FP8 block quantization edge case
-
-https://github.com/vllm-project/tpu-inference/pull/1472 Support MoE sigmoid scoring
 
 <!--
 https://github.com/llvm/torch-mlir/pull/4228
