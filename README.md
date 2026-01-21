@@ -20,7 +20,9 @@ https://github.com/AlphaGPU/leetgpu-challenges/pull/90 Script to generate starte
 
 # In-progress:
 
+https://github.com/vllm-project/tpu-inference/pull/1440 Handle unaligned FP8 block quantization edge case
 
+https://github.com/vllm-project/tpu-inference/pull/1472 Support MoE sigmoid scoring
 
 <!--
 https://github.com/llvm/torch-mlir/pull/4228
