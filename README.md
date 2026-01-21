@@ -1,4 +1,4 @@
-I also like to document my open-sourced work, many of which are rather random. It reminds me of the good work I have done, excluding my internships, no matter how trivial :D
+I also like to document my open-sourced work, many of which are rather random. It reminds me of the good work I have done, no matter how trivial :D
 
 # In-progress:
 
