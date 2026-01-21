@@ -24,7 +24,7 @@ https://github.com/TheOdinProject/javascript-exercises/pull/368 Update sumAll-so
 
 https://github.com/TheOdinProject/javascript-exercises/pull/369 Reformat test parameters for consistency
 
-https://github.com/PolicyEngine/policyengine-app/pull/1283 Render p in markdown as <p> instead of <div> for blogs
+https://github.com/PolicyEngine/policyengine-app/pull/1283 Render p in markdown as `<p>` instead of `<div>` for blogs
 
 https://github.com/PolicyEngine/policyengine-app/pull/1269 Rename title in PolicyBreakdown component
 
