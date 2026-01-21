@@ -6,6 +6,8 @@ https://github.com/vllm-project/tpu-inference/pull/1440 Handle unaligned FP8 blo
 
 https://github.com/vllm-project/tpu-inference/pull/1472 Support MoE sigmoid scoring
 
+https://github.com/vllm-project/tpu-inference/pull/1504 Update README for benchmark
+
 # Merged:
 
 https://github.com/vllm-project/tpu-inference/pull/1388 Support FP8 quantization
