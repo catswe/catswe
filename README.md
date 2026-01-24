@@ -40,6 +40,9 @@ https://github.com/fullstack-hy2020/fullstack-hy2020.github.io/pull/2980 Update 
 
 https://github.com/fullstack-hy2020/fullstack-hy2020.github.io/pull/2979 Update part3d.md (fix incorrect links)
 
+# Issue:
+https://github.com/jax-ml/jax/issues/34620 [Pallas TPU] jnp.argmax returns last index instead of first index on ties
+
 # Guide:
 
 [A Guide on Overcoming Nerd Snipe, Info Junk, and FOMO](https://docs.google.com/document/d/1XJcfWStffLsu96w6jwWeFmY1sPXLS3boArlbipsk3JE/edit?tab=t.0)
