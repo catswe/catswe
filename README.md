@@ -6,7 +6,7 @@ https://github.com/vllm-project/tpu-inference/pull/1440 Handle unaligned FP8 blo
 
 https://github.com/vllm-project/tpu-inference/pull/1472 Support MoE sigmoid scoring
 
-https://github.com/vllm-project/tpu-inference/pull/1504 Update README for benchmark
+https://github.com/vllm-project/tpu-inference/pull/1504 [Doc] Update benchmarking README
 
 https://github.com/jax-ml/jax/pull/34623 [Doc] Update jnp.argmin/argmax doc for Pallas TPU
 
