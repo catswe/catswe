@@ -8,7 +8,7 @@ https://github.com/vllm-project/tpu-inference/pull/1472 Support MoE sigmoid scor
 
 https://github.com/vllm-project/tpu-inference/pull/1504 Update README for benchmark
 
-https://github.com/jax-ml/jax/pull/34623 Update jnp.argmin/argmax doc for Pallas TPU
+https://github.com/jax-ml/jax/pull/34623 [Doc] Update jnp.argmin/argmax doc for Pallas TPU
 
 # Merged:
 
