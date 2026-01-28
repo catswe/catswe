@@ -2,7 +2,7 @@ I also like to document my open-sourced work, many of which are rather random. I
 
 # In-progress:
 
-https://github.com/jax-ml/jax/pull/34674 [Pallas TPU] Update logistic lowering to correctly handle BF16
+https://github.com/jax-ml/jax/pull/34674 [Mosaic] Update logistic lowering to correctly handle BF16
 
 https://github.com/vllm-project/tpu-inference/pull/1440 Handle unaligned FP8 block quantization edge case
 
