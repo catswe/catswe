@@ -2,6 +2,8 @@ I also like to document my open-sourced work, many of which are rather random. I
 
 # In-progress:
 
+https://github.com/jax-ml/jax/pull/34674 [Pallas TPU] Update logistic lowering to correctly handle bf16
+
 https://github.com/vllm-project/tpu-inference/pull/1440 Handle unaligned FP8 block quantization edge case
 
 https://github.com/vllm-project/tpu-inference/pull/1472 Support MoE sigmoid scoring
