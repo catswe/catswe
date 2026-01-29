@@ -1,6 +1,6 @@
 I also like to document my open-sourced work, many of which are rather random. It reminds me of the good work I have done, no matter how trivial :D
 
-# In-progress:
+# Open:
 
 https://github.com/jax-ml/jax/pull/34674 [Mosaic] Update logistic lowering to correctly handle BF16
 
