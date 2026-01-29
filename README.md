@@ -6,7 +6,7 @@ https://github.com/jax-ml/jax/pull/34674 [Mosaic] Update logistic lowering to co
 
 https://github.com/vllm-project/tpu-inference/pull/1472 Support MoE sigmoid scoring (approved pending upstream bug fix)
 
-https://github.com/vllm-project/tpu-inference/pull/1440 Handle unaligned FP8 block quantization edge case
+https://github.com/vllm-project/tpu-inference/pull/1440 Handle unaligned FP8 block quantization edge case (blocked by manual test)
 
 <!--
 https://github.com/vllm-project/tpu-inference/pull/1504 [Doc] Update benchmarking README
