@@ -2,7 +2,7 @@ I also like to document my open-sourced work, many of which are rather random. I
 
 # Open:
 
-https://github.com/jax-ml/jax/pull/34674 [Mosaic] Update logistic lowering to correctly handle BF16
+https://github.com/jax-ml/jax/pull/34674 [Mosaic] Update logistic lowering to correctly handle BF16 inputs
 
 https://github.com/vllm-project/tpu-inference/pull/1472 Support MoE sigmoid scoring (approved pending upstream bug fix)
 
