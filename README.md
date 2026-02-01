@@ -20,6 +20,8 @@ https://github.com/vllm-project/tpu-inference/pull/1388 Support FP8 quantization
 
 https://github.com/vllm-project/tpu-inference/pull/1454 Remove init_cached_hf_modules after upstream removal
 
+https://github.com/vllm-project/vllm/pull/33501 Fix DeepSeek V2 RoPE initialization error
+
 https://github.com/stanford-crfm/levanter/pull/974 Initial implementation of power scheduler
 
 https://github.com/llvm/torch-mlir/pull/4228 [OnnxToTorch] Casting float to integer should round to nearest for pow with int result type
