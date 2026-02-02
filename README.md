@@ -4,11 +4,11 @@ I also like to document my open-sourced work, many of which are rather random. I
 
 https://github.com/jax-ml/jax/pull/34674 [Mosaic] Update logistic lowering to correctly handle BF16 inputs
 
+https://github.com/vllm-project/tpu-inference/pull/1593 Support DeepSeek-V2-Lite-Chat-FP8
+
 https://github.com/vllm-project/tpu-inference/pull/1472 Support MoE sigmoid scoring (approved pending upstream bug fix)
 
 https://github.com/vllm-project/tpu-inference/pull/1440 Handle unaligned FP8 block quantization edge case
-
-https://github.com/vllm-project/tpu-inference/pull/1593 Support DeepSeek-V2-Lite-Chat-FP8
 
 <!--
 https://github.com/vllm-project/tpu-inference/pull/1504 [Doc] Update benchmarking README
