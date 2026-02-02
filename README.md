@@ -6,8 +6,6 @@ https://github.com/jax-ml/jax/pull/34674 [Mosaic] Update logistic lowering to co
 
 https://github.com/vllm-project/tpu-inference/pull/1593 Support DeepSeek-V2-Lite-Chat-FP8
 
-https://github.com/vllm-project/tpu-inference/pull/1472 Support MoE sigmoid scoring (approved pending upstream bug fix)
-
 https://github.com/vllm-project/tpu-inference/pull/1440 Handle unaligned FP8 block quantization edge case
 
 <!--
@@ -19,6 +17,8 @@ https://github.com/jax-ml/jax/pull/34623 [Doc] Update jnp.argmin/argmax doc for 
 # Merged:
 
 https://github.com/vllm-project/tpu-inference/pull/1388 Support FP8 quantization
+
+https://github.com/vllm-project/tpu-inference/pull/1472 Support MoE sigmoid scoring
 
 https://github.com/vllm-project/tpu-inference/pull/1454 Remove init_cached_hf_modules after upstream removal
 
