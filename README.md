@@ -8,6 +8,8 @@ https://github.com/vllm-project/tpu-inference/pull/1472 Support MoE sigmoid scor
 
 https://github.com/vllm-project/tpu-inference/pull/1440 Handle unaligned FP8 block quantization edge case
 
+https://github.com/vllm-project/tpu-inference/pull/1593 Support DeepSeek-V2-Lite-Chat-FP8
+
 <!--
 https://github.com/vllm-project/tpu-inference/pull/1504 [Doc] Update benchmarking README
 
