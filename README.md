@@ -20,7 +20,7 @@ https://github.com/vllm-project/tpu-inference/pull/1388 Support FP8 quantization
 
 https://github.com/vllm-project/tpu-inference/pull/1472 Support MoE sigmoid scoring
 
-https://github.com/vllm-project/tpu-inference/pull/1454 Remove init_cached_hf_modules after upstream removal
+https://github.com/vllm-project/tpu-inference/pull/1454 Remove dead code after upstream removal
 
 https://github.com/vllm-project/vllm/pull/33501 Fix DeepSeek V2 RoPE initialization error
 
