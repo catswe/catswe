@@ -6,7 +6,7 @@ https://github.com/jax-ml/jax/pull/34674 [Mosaic] Update logistic lowering to co
 
 https://github.com/vllm-project/tpu-inference/pull/1593 Support DeepSeek-V2-Lite-Chat-FP8
 
-https://github.com/vllm-project/tpu-inference/pull/1440 Handle unaligned FP8 block quantization edge case (approved pending CI)
+https://github.com/vllm-project/tpu-inference/pull/1440 Handle unaligned FP8 block quantization edge case (approved pending CI issues)
 
 <!--
 https://github.com/vllm-project/tpu-inference/pull/1504 [Doc] Update benchmarking README
