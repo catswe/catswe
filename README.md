@@ -1,6 +1,6 @@
 I also like to document my open-sourced work, many of which are rather random. It reminds me of the good work I have done, no matter how trivial :D
 
-### Ongoing:
+## Ongoing:
 
 https://github.com/jax-ml/jax/pull/34674 [Mosaic] Update logistic lowering to correctly handle BF16 inputs
 
@@ -14,7 +14,7 @@ https://github.com/vllm-project/tpu-inference/pull/1504 [Doc] Update benchmarkin
 https://github.com/jax-ml/jax/pull/34623 [Doc] Update jnp.argmin/argmax doc for Pallas TPU)
 -->
 
-### Merged:
+## Merged:
 
 https://github.com/vllm-project/tpu-inference/pull/1388 Support FP8 quantization
 
