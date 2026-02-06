@@ -4,6 +4,8 @@ I also like to document my open-sourced work, many of which are rather random. I
 
 https://github.com/jax-ml/jax/pull/34674 [Mosaic] Update logistic lowering to correctly handle BF16 inputs
 
+https://github.com/vllm-project/tpu-inference/pull/1644 [AWQ][MoE] Support AWQ MoE
+
 https://github.com/vllm-project/tpu-inference/pull/1593 Support DeepSeek-V2-Lite-Chat-FP8
 
 <!--
