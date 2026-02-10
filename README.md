@@ -8,7 +8,7 @@ https://github.com/vllm-project/tpu-inference/pull/1644 [AWQ][MoE] Support AWQ M
 
 https://github.com/vllm-project/tpu-inference/pull/1593 Support DeepSeek-V2-Lite-Chat-FP8
 
-https://github.com/vllm-project/tpu-inference/pull/1659 Ensure quantization config is properly registered (approved)
+https://github.com/vllm-project/tpu-inference/pull/1659 Properly register quantization configs (approved)
 
 https://github.com/vllm-project/tpu-inference/pull/1656 Pass dequantization dtype to match comments (approved)
 
