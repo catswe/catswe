@@ -21,9 +21,9 @@ https://github.com/vllm-project/tpu-inference/pull/1388 Support FP8 quantization
 
 https://github.com/vllm-project/tpu-inference/pull/1440 Handle unaligned FP8 block quantization edge case
 
-https://github.com/vllm-project/tpu-inference/pull/1472 Support MoE sigmoid scoring
-
 https://github.com/vllm-project/tpu-inference/pull/1659 Properly register quantization configs
+
+https://github.com/vllm-project/tpu-inference/pull/1472 Support MoE sigmoid scoring
 
 https://github.com/vllm-project/tpu-inference/pull/1454 Remove dead code after upstream removal
 
