@@ -61,14 +61,6 @@ https://github.com/jax-ml/jax/issues/34620 [Pallas TPU] jnp.argmax returns last 
 
 https://github.com/jax-ml/jax/pull/34674 [Mosaic] Update logistic lowering to correctly handle BF16 inputs
 
-# Writings:
+# Guide:
 
 [A Guide on Overcoming Nerd Snipe, Info Junk, and FOMO](https://docs.google.com/document/d/1XJcfWStffLsu96w6jwWeFmY1sPXLS3boArlbipsk3JE/edit?tab=t.0)
-
-<!--
-https://github.com/llvm/torch-mlir/pull/4228
-https://github.com/marin-community/levanter/pull/974
-https://github.com/pytorch/pytorch/pull/163616
-https://github.com/alphagpu/leetgpu-challenges/pull/90
-https://github.com/catswe/KANditioned
--->
