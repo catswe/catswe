@@ -15,9 +15,9 @@ https://github.com/jax-ml/jax/pull/34623 [Doc] Update jnp.argmin/argmax doc for 
 
 ## Merged:
 
-https://github.com/vllm-project/tpu-inference/pull/1388 Support FP8 quantization
-
 https://github.com/vllm-project/tpu-inference/pull/1729 Support DeepSeek-V2-Lite-Chat-FP8
+
+https://github.com/vllm-project/tpu-inference/pull/1388 Support FP8 quantization
 
 https://github.com/vllm-project/tpu-inference/pull/1440 Handle unaligned FP8 block quantization edge case
 
