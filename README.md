@@ -4,10 +4,10 @@ I also like to document my open-sourced work, many of which are rather random. I
 
 https://github.com/vllm-project/tpu-inference/pull/1644 [AWQ][MoE] Support AWQ MoE
 
-https://github.com/vllm-project/tpu-inference/pull/1656 Pass dequantization dtype to match comments (approved)
-
 
 <!--
+https://github.com/vllm-project/tpu-inference/pull/1656 Pass dequantization dtype to match comments (approved)
+
 https://github.com/vllm-project/tpu-inference/pull/1504 [Doc] Update benchmarking README
 
 https://github.com/jax-ml/jax/pull/34623 [Doc] Update jnp.argmin/argmax doc for Pallas TPU)
