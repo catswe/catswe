@@ -27,7 +27,7 @@ https://github.com/vllm-project/tpu-inference/pull/1472 Support MoE sigmoid scor
 
 https://github.com/vllm-project/tpu-inference/pull/1454 Remove dead code after upstream removal
 
-https://github.com/vllm-project/vllm/pull/33501 Fix DeepSeek V2 RoPE initialization error
+https://github.com/vllm-project/vllm/pull/33501 Fix DeepSeek RoPE initialization error
 
 https://github.com/stanford-crfm/levanter/pull/974 Initial implementation of power scheduler
 
