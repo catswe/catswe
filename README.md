@@ -25,6 +25,8 @@ https://github.com/vllm-project/tpu-inference/pull/1659 Properly register quanti
 
 https://github.com/vllm-project/tpu-inference/pull/1472 Support MoE sigmoid scoring
 
+https://github.com/vllm-project/tpu-inference/pull/1656 Update dequantization dtype to match comments
+
 https://github.com/vllm-project/tpu-inference/pull/1454 Remove dead code after upstream removal
 
 https://github.com/vllm-project/vllm/pull/33501 Fix DeepSeek RoPE initialization error
