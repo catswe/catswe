@@ -1,6 +1,8 @@
 I also like to document my open-sourced work, many of which are rather random. It reminds me of the good work I have done, no matter how trivial :D
 
-<!-- ## Pending: -->
+## Pending:
+
+https://github.com/vllm-project/tpu-inference/pull/1911 [Kernel][GMM] Support zero point asymmetric quantization
 
 <!--
 https://github.com/vllm-project/tpu-inference/pull/1656 Pass dequantization dtype to match comments (approved)
