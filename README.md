@@ -2,8 +2,6 @@ I also like to document my open-sourced work, many of which are rather random. I
 
 ## Pending:
 
-https://github.com/vllm-project/tpu-inference/pull/1934 [Kernel][GMM] Fix incorrect RHS scale application
-
 https://github.com/vllm-project/tpu-inference/pull/1929 [Kernel][GMM] Fix truncation bias during LHS quantization
 
 https://github.com/vllm-project/tpu-inference/pull/1911 [Kernel][GMM] Support zero point asymmetric quantization
