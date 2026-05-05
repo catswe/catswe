@@ -1,5 +1,9 @@
 I also like to document my open-sourced work, many of which are rather random. It reminds me of the good work I have done, no matter how trivial
 
+<a href="https://github.com/catswe/flash-attention-residuals">
+  <img src="https://gh-card.dev/repos/catswe/flash-attention-residuals.svg" />
+</a>
+
 <!--
 ## Pending:
 
