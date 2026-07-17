@@ -1,6 +1,6 @@
 I also like to document my open-sourced work, many of which are rather random. It reminds me of the good work I have done, no matter how trivial
 
-[Basic presentation slide detailing some work](https://docs.google.com/presentation/d/1lOB199zgy1i_5LA08QomdPXJpv2UDGhT0tFGoXjxbZU/edit?slide=id.g3f497551859_0_182#slide=id.g3f497551859_0_182)
+[Basic slides detailing some work](https://docs.google.com/presentation/d/1lOB199zgy1i_5LA08QomdPXJpv2UDGhT0tFGoXjxbZU/edit?slide=id.g3f497551859_0_182#slide=id.g3f497551859_0_182)
 
 <!--
 ## Pending:
