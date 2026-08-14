@@ -9,8 +9,6 @@ https://github.com/vllm-project/tpu-inference/pull/1929 [Kernel][GMM] Fix trunca
 
 https://github.com/vllm-project/tpu-inference/pull/1911 [Kernel][GMM] Support zero point asymmetric quantization
 
-https://github.com/vllm-project/tpu-inference/pull/1656 Pass dequantization dtype to match comments (approved)
-
 https://github.com/vllm-project/tpu-inference/pull/1504 [Doc] Update benchmarking README
 
 https://github.com/jax-ml/jax/pull/34623 [Doc] Update jnp.argmin/argmax doc for Pallas TPU)
