@@ -16,7 +16,7 @@ https://github.com/vllm-project/tpu-inference/pull/1504 [Doc] Update benchmarkin
 https://github.com/jax-ml/jax/pull/34623 [Doc] Update jnp.argmin/argmax doc for Pallas TPU)
 -->
 
-## Merged:
+### Merged:
 
 https://github.com/vllm-project/tpu-inference/pull/1644 [AWQ][MoE] Support AWQ MoE
 
@@ -44,6 +44,18 @@ https://github.com/pytorch/pytorch/pull/163616 Update doc for torch.index_select
 
 https://github.com/pytorch/tutorials/pull/3844 Update torch.compile triton.autotune note
 
+### Bug Reports:
+
+https://github.com/pytorch/pytorch/issues/164666 sparse.mm(CSR x dense) backward fails on CUDA for bfloat16 but CSR @ dense backward works
+
+https://github.com/jax-ml/jax/issues/34620 [Pallas TPU] jnp.argmax returns last index instead of first index on ties
+
+https://github.com/jax-ml/jax/issues/35492 [Pallas TPU] Incorrect result for jnp.dot with uint4 rhs and bfloat16 lhs
+
+https://github.com/jax-ml/jax/pull/34674 [Mosaic] Update logistic lowering to correctly handle BF16 inputs
+
+### Merged (misc):
+
 https://github.com/mintisan/awesome-kan/pull/139 Add LinearKAN
 
 https://github.com/AlphaGPU/leetgpu-challenges/pull/90 Script to generate starter code for GPU challenges
@@ -64,16 +76,6 @@ https://github.com/fullstack-hy2020/fullstack-hy2020.github.io/pull/2980 Update 
 
 https://github.com/fullstack-hy2020/fullstack-hy2020.github.io/pull/2979 Update part3d.md (fix incorrect links)
 
-# Bug Reports:
-
-https://github.com/pytorch/pytorch/issues/164666 sparse.mm(CSR x dense) backward fails on CUDA for bfloat16 but CSR @ dense backward works
-
-https://github.com/jax-ml/jax/issues/34620 [Pallas TPU] jnp.argmax returns last index instead of first index on ties
-
-https://github.com/jax-ml/jax/issues/35492 [Pallas TPU] Incorrect result for jnp.dot with uint4 rhs and bfloat16 lhs
-
-https://github.com/jax-ml/jax/pull/34674 [Mosaic] Update logistic lowering to correctly handle BF16 inputs
-
-# Guide:
+### Guide:
 
 [A Guide on Overcoming Nerd Snipe, Info Junk, and FOMO](https://docs.google.com/document/d/1XJcfWStffLsu96w6jwWeFmY1sPXLS3boArlbipsk3JE/edit?tab=t.0)
