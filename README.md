@@ -54,7 +54,7 @@ https://github.com/jax-ml/jax/issues/35492 [Pallas TPU] Incorrect result for jnp
 
 https://github.com/jax-ml/jax/pull/34674 [Mosaic] Update logistic lowering to correctly handle BF16 inputs
 
-### Merged (misc):
+### Merged Misc:
 
 https://github.com/mintisan/awesome-kan/pull/139 Add LinearKAN
 
