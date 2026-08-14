@@ -46,9 +46,9 @@ https://github.com/pytorch/tutorials/pull/3844 Update torch.compile triton.autot
 
 https://github.com/pytorch/pytorch/issues/164666 sparse.mm(CSR x dense) backward fails on CUDA for bfloat16 but CSR @ dense backward works
 
-https://github.com/jax-ml/jax/issues/34620 [Pallas TPU] jnp.argmax returns last index instead of first index on ties
-
 https://github.com/jax-ml/jax/issues/35492 [Pallas TPU] Incorrect result for jnp.dot with uint4 rhs and bfloat16 lhs
+
+https://github.com/jax-ml/jax/issues/34620 [Pallas TPU] jnp.argmax returns last index instead of first index on ties
 
 https://github.com/jax-ml/jax/pull/34674 [Mosaic] Update logistic lowering to correctly handle BF16 inputs
 
