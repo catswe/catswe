@@ -38,11 +38,11 @@ https://github.com/vllm-project/vllm/pull/33501 Fix DeepSeek RoPE initialization
 
 https://github.com/llvm/torch-mlir/pull/4228 [OnnxToTorch] Casting float to integer should round to nearest for pow with int result type
 
+https://github.com/stanford-crfm/levanter/pull/974 Initial implementation of power scheduler
+
 https://github.com/pytorch/pytorch/pull/163616 Update doc for torch.index_select, which can accept IntTensor as a parameter
 
 https://github.com/pytorch/tutorials/pull/3844 Update torch.compile triton.autotune note
-
-https://github.com/stanford-crfm/levanter/pull/974 Initial implementation of power scheduler
 
 ### Bug Reports:
 
