@@ -1,4 +1,4 @@
-I also like to document my open-sourced work, many of which are rather random. It reminds me of the good work I have done, no matter how trivial
+I also like to document my open-sourced work, many of which are rather random. It reminds me of the good work I have done
 
 [Basic slides detailing some work](https://docs.google.com/presentation/d/1lOB199zgy1i_5LA08QomdPXJpv2UDGhT0tFGoXjxbZU/edit?slide=id.g3f497551859_0_182#slide=id.g3f497551859_0_182)
 
@@ -44,6 +44,7 @@ https://github.com/pytorch/pytorch/pull/163616 Update doc for torch.index_select
 
 https://github.com/pytorch/tutorials/pull/3844 Update torch.compile triton.autotune note
 
+<!--
 ### Bug Reports:
 
 https://github.com/jax-ml/jax/issues/35492 [Pallas TPU] Incorrect result for jnp.dot with uint4 rhs and bfloat16 lhs
@@ -79,3 +80,4 @@ https://github.com/fullstack-hy2020/fullstack-hy2020.github.io/pull/2979 Update 
 ### Guide:
 
 [A Guide on Overcoming Nerd Snipe, Info Junk, and FOMO](https://docs.google.com/document/d/1XJcfWStffLsu96w6jwWeFmY1sPXLS3boArlbipsk3JE/edit?tab=t.0)
+-->
