@@ -44,7 +44,10 @@ https://github.com/pytorch/pytorch/pull/163616 Update doc for torch.index_select
 
 https://github.com/pytorch/tutorials/pull/3844 Update torch.compile triton.autotune note
 
-<!--
+https://github.com/mintisan/awesome-kan/pull/139 Add LinearKAN
+
+https://github.com/AlphaGPU/leetgpu-challenges/pull/90 Script to generate starter code for GPU challenges
+
 ### Bug Reports:
 
 https://github.com/jax-ml/jax/issues/35492 [Pallas TPU] Incorrect result for jnp.dot with uint4 rhs and bfloat16 lhs
@@ -55,11 +58,9 @@ https://github.com/jax-ml/jax/pull/34674 [Mosaic] Update logistic lowering to co
 
 https://github.com/pytorch/pytorch/issues/164666 sparse.mm(CSR x dense) backward fails on CUDA for bfloat16 but CSR @ dense backward works
 
+<!--
+
 ### Merged Misc:
-
-https://github.com/mintisan/awesome-kan/pull/139 Add LinearKAN
-
-https://github.com/AlphaGPU/leetgpu-challenges/pull/90 Script to generate starter code for GPU challenges
 
 https://github.com/TheOdinProject/javascript-exercises/pull/370 Update fibonacci-solution.js
 
